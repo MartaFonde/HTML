@@ -1,0 +1,62 @@
+<ol> order list ; <ul> unorder list
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Exercise2</title>
+
+    <meta name="description" content="Classification of glasses page order.">
+    <meta name="keywords" content="">
+    <meta name="author" content="Marta">
+
+</head>
+
+<body>
+    <p>
+        <h1><b>Classification of glasses</b></h1>
+    </p>
+    <p>
+        According to their funtion we can classify the glasses in several groups:
+    </p>
+    <p>
+        <ol>   
+
+            <li>
+                Glasses to correct the slight
+                <ol type="a">
+                    <li>Prescription glasses</li>
+                    <li>Bifocal glasses</li>
+                    <li>Progressive glasses</li>
+                </ol>
+
+            </li>
+
+
+            <li>
+                Sunglasses
+                <ol type="a">
+                    <li>Cosmetic sunglasses</li>
+                    <li>General purpose sunglasses</li>
+                    <li>Special sunglasses</li>
+                </ol>
+            </li>
+
+
+            <li>
+                Prospective glasses
+            </li>
+
+        </ol>
+
+    </p>
+
+    <a href="exercise1.html">Previous exercise</a>
+    <a href="exercise2b.html">Next exercise</a>
+
+</body>
+
+</html>
