@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Exercise3</title>
+
+    <meta name="description" content="Table with a picture of glasses what redirect us to the wikipedia.">
+    <meta name="keywords" content="Glasses">
+    <meta name="author" content="Marta">
+
+</head>
+
+<body>
+    <table border="1" align="center">
+        <tr>
+            <th colspan="2" width="100px" align="center">Table header</th>
+        </tr>
+
+        <tr>
+            <td width="100px" align="center">Row 1</td>
+            <td rowspan="4">
+                <a href="https://en.wikipedia.org/wiki/Glasses" taget="_blank"><img src="img/gafas.jpg" alt="gafas de pasta"> </a>
+            </td>
+        </tr>
+        <td width="100px" align="center">Row 2</td>
+        <tr>
+            <td width="100px" align="center">Row 3</td>
+        </tr>
+
+        <tr>
+            <td width="100px" align="center">Row 4</td>
+        </tr>
+
+        <tr>
+            <td colspan="2" width="100px" align="center">Foot of table</td>
+        </tr>
+
+
+    </table>
+
+    <a href="exercise2c.html">Previous exercise</a>
+    <a href="exercise3b.html">Next exercise</a>
+
+</body>
+
+
+</html>
