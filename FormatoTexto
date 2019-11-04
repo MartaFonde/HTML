@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <title>HTML. First Test</title>
+    <link rel="short cut icon" href="Img/favicon_.jpg" type="image/jpg" />
+
+    <meta name="description" content="This page try to explain us the funtion and functioning of the glasses and how they can help us to see better.">
+    <meta name="keywords" content="Glasses, View, Invention, Eyes, Light">
+    <meta name="author" content="Marta">
+    <meta http-equiv="refresh" content="5">
+
+
+
+</head>
+
+<body>
+    <p>
+        <h3>The why of things</h3>
+    </p>
+    <p>
+        <h1>Why do the glasses allow us to see better?</h1>
+    </p>
+    <p>
+        <h2>The glasses are an invention of 1286. But they have been carving lenses from <br> practically the fifth century BC. The ancients knew that they allowed us to see enlarged <br> or better focused objects, but not exactly why.</h2>
+    </p>
+
+    <p>
+        Light is a set of electromagnetic waves that move around straight
+        <it>ray</it> lines. <br>
+    </p>
+    <p>
+        In the lens of the eye, those rays that come from an object change their direction, <b>to arrive coordinately at the retina</b>, where they <br> generate electrical currents that the brain interprets as images of objects.
+    </p>
+    <p>
+        In many people, <u>the lens does not get electrical currents generated in a small number of retina cells, and the image is <b>thick, blurred.</b></u>
+    </p>
+    <p>
+        The glasses of the glasses <i><b>change</b></i> the speed of the light and, with it, the directions of the rays that reach the lens, <u>so that the images of<br>
+        new rays that come out of it now are clear.</u>
+    </p>
+
+    <a href="exercise4.html">Previous exercise</a>
+    <a href="exercise2a.html">Next exercise </a>
+
+
+</body>
+
+</html>
