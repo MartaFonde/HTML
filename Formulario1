@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>exercise1Forms</title>
+</head>
+<body>
+    <form>
+        <h3>Input types</h3>
+        User <input type="text" id="nombre" placeholder="username"> <br>
+        Password <input type="password" id="pass"> <br>
+        Keed me logged in <input type="checkbox" checked> <br>
+        Preferences: 
+            <input type="radio" name="preferences" value="Morning">Morning
+            <input type="radio" name="preferences" value="Afternoon">Afternoon
+            <input type="radio" name="preferences" value="Evening">Evening <br>
+        Book:
+            <input type="radio" name="car" value="car">Car
+            <input type="radio" name="hotel" value="hotel">Hotel <br>
+        City <input type="text" name="city" value="Vigo" readonly="Vigo"> <br>
+        Unload photo <input type="file" name="photo"><br>
+        
+        <input type="submit" value="Sent">
+        <input type="Reset" value="Reset">
+        <input type="button" value="Close" onclick="window.close();">
+
+    </form>
+    
+</body>
+</html>
