@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>exercise4</title>
+
+    <meta name="description" content="This page has a link that open the test document in a new window.">
+    <meta name="keywords" content="link, document, test">
+    <meta name="author" content="marta">
+
+</head>
+
+<body>
+    <a href="public_html/data/Test1HTML.pdf" target="_blank"> Click to download Test1HTML</a>
+    <br>
+    <a href="mailto:mila@colegiovivas.com">Contact via email </a>
+    <br>
+    <br>
+    <a href="exercise3b.html">Previous exercise</a>
+    <a href="exercise1.html">Next exercise</a>
+</body>
+
+</html>
