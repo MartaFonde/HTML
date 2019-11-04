@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>exercise6forms</title>
+</head>
+
+<body>
+    <form>
+        <h2>Paquita´s Fashion</h2>
+        <fieldset>
+            <legend>Order form</legend>
+            <table>
+                <tr>
+                    <td>
+                        <h3>Setp1. Personal Information</h3>
+                    </td>
+                </tr>
+                <tr>
+
+                    <td>
+                        <fieldset>
+                            <legend>Customer Information</legend>
+                            Email<input type="email" name="correo"> <br> Password
+                            <input type="password" name="pass" minlength="6"><br> Minimun lenght 6 characters
+                        </fieldset>
+                    </td>
+                    <td>
+                        <fieldset>
+                            <legend>Type of consumer</legend>
+                            <input type="radio" name="consumer">Individual<br>
+                            <input type="radio" name="consumer">Assotiation<br>
+                            <input type="radio" name="consumer">Company<br>
+                        </fieldset>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <h3>Setp2. Order</h3>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <fieldset>
+                            <legend>Items</legend>
+                            <b>Product</b> <br>
+                            <select id="clothes" name="clothes" multiple="multiple" size="7">
+                                    <optgroup label="Shirts">
+                                        <option value="longSleeve" selected="selected">Long Sleeve</option>
+                                        <option value="shortSleeve">Short Sleeve</option>
+                                    </optgroup>
+                                    <optgroup label="Jeans">
+                                        <option value="skinnyPants">Skinny pants</option>
+                                        <option value="bellTrousers">Bell trousers</option>
+                                        <option value="Shorts">Shorts</option>
+                                    </optgroup>
+                                </select>
+                        </fieldset>
+                    </td>
+                    <td>
+                        <fieldset>
+                            <legend>Information of interest</legend>
+                            <textarea rows="6" cols="40" maxlength="60" placeholder="Write here your comments"></textarea>
+                            <input type="checkbox" checked> I agree to receive advertising information
+                        </fieldset>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <fieldset>
+                            <legend>Shipping Information</legend>
+                            Adress <input type="text" name="adress"> <br> City <input type="text" name="city"> <br> Zip Codey <input type="number" name="codpostal"> <br>
+                            <input type="submit" value="Send"> <br>
+                        </fieldset>
+                    </td>
+                    <td>
+                        <fieldset>
+                            <legend>Bank Data</legend>
+                            Bank <input type="text" name="banco"> <br> Account number <input type="number" name="accountnum"> <br>
+                            <input type="reset" value="Reset">
+                        </fieldset>
+                    </td>
+                </tr>
+            </table>
+        </fieldset>
+
+    </form>
+
+</body>
+
+</html>
