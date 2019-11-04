@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Exercise2c</title>
+
+    <meta name="description" content="Definitions of types of glasses">
+    <meta name="keywords" content="Glasses, Sunglasses, Eyesight, Protective">
+    <meta name="author" content="Marta">
+
+</head>
+
+<body>
+    <p>
+        <h1>Definitions</h1>
+    </p>
+
+
+    <p>Next we show the definition of the different types of glasses:</p>
+
+    <dl>
+        <dt><b>Glasses to correct the eyesight:</b></dt>
+        <dd>
+            Set of two glasses with optical graduation, placed in a frame that rests on the nose <br> and that is held behind the ears with sideburns, with object to correct a visual <br> defect.
+        </dd>
+
+        <dt><b>Sunglasses:</b></dt>
+        <dd>
+            They are colored or darkened glasses that are intented to protect the eyes from <br> direct and annoying light.
+        </dd>
+
+        <dt><b>Protective glasses:</b></dt>
+        <dd>
+            They are a type of glasses used to prevent the entry of objects, water or chemicals <br> in the eyes.
+        </dd>
+    </dl>
+
+    <a href="exercise2b.html">Previous exercise</a>
+    <a href="exercise3.html">Next exercise</a>
+
+</body>
+
+</html>
