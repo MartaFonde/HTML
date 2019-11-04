@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Exercise3b</title>
+    <meta name="description" content="This table shows two type of photos, of glasses, sunglasses and protective glasses.">
+    <meta name="keywords" content="Glasses, Sunglasses, Protective Glasses">
+    <meta name="author" content="Marta">
+
+</head>
+
+<body>
+    <table border="1">
+        <th colspan="2">
+            First image heading
+        </th>
+
+        <tr>
+            <td>
+                Sunglasses
+            </td>
+
+            <td rowspan="2" width="300px">
+                <img src="img/sunglass.jpg" alt="gafas de sol" />
+            </td>
+        </tr>
+        <tr>
+            <td>
+
+            </td>
+
+        </tr>
+
+        <th colspan="2">
+            Second image heding
+        </th>
+        <tr>
+            <td rowspan="2" width="300px">
+                <img src="img/protglasses.jpg" alt="gafas protectoras" />
+            </td>
+            <td>
+                Protective Glasses
+            </td>
+        </tr>
+
+        <tr>
+            <td>
+
+            </td>
+
+        </tr>
+
+
+    </table>
+
+    <a href="exercise3.html">Previous exercise</a>
+    <a href="exercise4.html">Next exercise</a>
+
+</body>
+
+</html>
